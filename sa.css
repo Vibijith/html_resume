@@ -1,0 +1,148 @@
+body {
+    display: flex;
+    flex-direction: row;
+  }
+  .one_div {
+    background-color: black;
+    width: 30%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .two_div {
+    background-color: white;
+    width: 70%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+   
+  .contact_details {
+    display: flex;
+    flex-direction: column;
+   
+   
+  }
+  .contact_icons{
+      display: flex;
+      flex-direction: row;
+      width: 400px;
+      height: 100px;
+      margin-bottom: -30px;
+     
+   
+   
+  }
+  .icm{
+      display: flex;
+      flex-direction: column;
+      width: 200px;
+  }
+  .education {
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .expertise {
+    background-color: rgb(241, 237, 240);
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .expertize_content{
+   display: flex;
+   flex-direction: row;
+  }
+   
+   
+  .contact_details {
+    background-color: rgb(241, 237, 240);
+    padding-left: 30px;
+  }
+  .small_line {
+    border-top: 3px solid #ffc905;
+    width: 50px;
+    margin-top: 12px;
+  }
+  .personal_details {
+    background-color: rgb(241, 237, 240);
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+  }
+  .work_experience {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .reference {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+  }
+  .reference_1 {
+    padding-right: 60px;
+  }
+  .image {
+    position: relative;
+    display: block;
+  }
+  .imtag {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: #ffc905;
+    color: black;
+    display: line;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: -10px;
+    margin-left: 1px;
+    padding-top: 12px;
+   
+    width: 260px;
+    height: 30px;
+  }
+  .each_icons{
+      padding-top:50px;
+     
+  }
+   
+  .interest_icons{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+     
+   
+  }
+  .each_interest{
+      padding: 30px;
+  }
+  .mid_line{
+      border-top: 3px solid #ffc905;
+     
+    margin-top: 12px;
+    }
+  .sm_line{
+      border-top: 3px solid black;
+      margin-top: 12px;
+  }
+   
+  .container {
+      background-color: #ffc905;
+      margin-top: -11px;
+      padding: 8px;
+      display: inline-block;
+      height: 65px;
+     
+     
+    }
+   
+    .container img {
+      display: block;
+       
+      height: auto; }
