@@ -26,9 +26,9 @@ body {
   .contact_icons{
       display: flex;
       flex-direction: row;
-      width: 400px;
+      width: 401px;
       height: 100px;
-      margin-bottom: -30px;
+      margin-bottom: -31px;
      
    
    
@@ -36,7 +36,7 @@ body {
   .icm{
       display: flex;
       flex-direction: column;
-      width: 200px;
+      width: 201px;
   }
   .education {
     background-color: black;
@@ -48,7 +48,7 @@ body {
     background-color: rgb(241, 237, 240);
     padding-left: 30px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 21px;
   }
   .expertize_content{
    display: flex;
@@ -83,7 +83,7 @@ body {
     padding: 30px;
   }
   .reference_1 {
-    padding-right: 60px;
+    padding-right: 61px;
   }
   .image {
     position: relative;
